@@ -40,9 +40,13 @@ The Wordpress admin dashboard offers options and settings to control every aspec
 
 ### THREE : THEME
 
-![theme selection](./assets/theme.png)
+![theme selection](./assets/theme00.png)
 
 After exploring a few themes, I have selected one of the three default themes supplied. I chose theme 'Twenty Twenty' because there was not too much additional work to be done using the theme. A few themes I tried prior had a large number of additional plugins and dependancies that needed to be installed and configured before the theme worked as desired.
+
+A screenshot of the full landing page can be seen below.
+
+![full page](./assets/fullHome.png)
 
 ### FOUR : PLACEHOLDER PAGES
 
@@ -54,4 +58,8 @@ I have created four placeholder pages for my project: a front page, about, posts
 
 ![navigation](./assets/nav.png)
 
-In the upper-right corner of any page, the navigation menu is accessible. The open navigation menu is displayed in the screenshot above.
+In the upper-right corner of any page, the navigation menu is accessible on narrow screens. The open navigation menu is displayed in the screenshot above. 
+
+![nav wide](./assets/homeWide.png)
+
+On wider screens the navigation bar and all pages are visible, as seen in the screenshot above.
