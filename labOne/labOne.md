@@ -34,15 +34,16 @@ XAMPP is installed and used for development on the developers local machine. Onc
 
 > ### TWO :  ADMIN DASHBOARD
 
+The Wordpress admin dashboard offers options and settings to control every aspect of a project. On the left hand side there is a side nav bar that contains most of the admin options, including: posts, media, pages, appearance, plugins, users, tools, and general settings. The main display of the admin dashboard has a general overview of the project and access to most commonly used features and options.
+
 ![admin dashboard](./assets/adminDash.png)
 
-The Wordpress admin dashboard offers options and settings to control every aspect of a project. On the left hand side there is a side nav bar that contains most of the admin options, including: posts, media, pages, appearance, plugins, users, tools, and general settings. The main display of the admin dashboard has a general overview of the project and access to most commonly used features and options.
 
 ### THREE : THEME
 
-![theme selection](./assets/theme00.png)
-
 After exploring a few themes, I have selected one of the three default themes supplied. I chose theme 'Twenty Twenty' because there was not too much additional work to be done using the theme. A few themes I tried prior had a large number of additional plugins and dependancies that needed to be installed and configured before the theme worked as desired.
+
+![theme selection](./assets/theme00.png)
 
 A screenshot of the full landing page can be seen below.
 
@@ -50,16 +51,16 @@ A screenshot of the full landing page can be seen below.
 
 ### FOUR : PLACEHOLDER PAGES
 
-![placeholder pages](./assets/placeholder.png)
-
 I have created four placeholder pages for my project: a front page, about, posts and update page, and a contact page. Another page or two may be added later on in the project, or one of the current pages might be modified.
+
+![placeholder pages](./assets/placeholder.png)
 
 ### FIVE : NAVIGATION
 
+In the upper-right corner of any page, the navigation menu is accessible on narrow screens. The open navigation menu is displayed in the screenshot below. 
+
 ![navigation](./assets/nav.png)
 
-In the upper-right corner of any page, the navigation menu is accessible on narrow screens. The open navigation menu is displayed in the screenshot above. 
+On wider screens the navigation bar and all pages available are visible via the nav bar, as seen in the screenshot below.
 
 ![nav wide](./assets/homeWide.png)
-
-On wider screens the navigation bar and all pages are visible, as seen in the screenshot above.
