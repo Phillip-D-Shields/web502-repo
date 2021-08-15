@@ -16,9 +16,19 @@ Worpress, Joomla, and Drupal have all successfully been installed. After startin
 
 ![3 CMS installed](./assets/a2-3installed.png)
 
-> ### THREE : COMPARISON TABLE
+> ### THREE : CMS COMPARISON TABLE
 
-Not sure how to create a table that compares two very different things. The features and purposes of Nodejs and XAMPP are very different, a few parallels can be drawn between using Nodejs as a web server and aspects of XAMPP that handle web server functionality. 
+| Framework |  Cost	    | Ease of use 	| Percantage of CMS Websites ** |  Additional Features Available ***	| 
+|---	    |---	    |---	        |---	                        |---	                                |
+| Wordpress | free * 	| Beginner 	    | 62.5% 	                    |  50,000 +	                            |
+| Joomla 	| free *  	| Developer 	| 3% 	                        |  6,000 +	                            |       
+| Drupal 	| free *  	| Developer 	| 2.2% 	                        |  47,000 +	                            |
+
+> * side costs : domain costs, hosting, plugins, professional features, themes
+
+> ** statistics acquired from [here](https://w3techs.com/technologies/overview/content_management)
+
+> *** Additional features include free and paid plugins, extensions, and modules
 
 > ### FOUR : INDUSTRY USAGE
 
