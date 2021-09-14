@@ -1,4 +1,4 @@
-# LAB ONE
+# LAB Two
 
 ## PART A
 
@@ -16,7 +16,7 @@ I added the video previously uploaded to the contact page, it can be seen below.
 
 ![contact page](./assets/contactVideo.png)
 
-> ### THREE : GALLERY IMPLEMENTATION 
+> ### THREE : GALLERY IMPLEMENTATION
 
 I have used a media plugin called [FooGallery](https://fooplugins.com/foogallery/?utm_source=wp_plugin&utm_medium=foogallery_free&utm_campaign=help) to create a media gallery for my site. The implementation was simple and easy thanks to the GUI and excellent documentation.
 
@@ -29,3 +29,20 @@ There were some issues creating a custom gallery without having a paid version o
 > 3. select FooGallery from the MEDIA section
 > 4. follow FooGallery block GUI and insert gallery, edit and preview as necessary
 
+## PART B
+
+> ### ONE : PLUGIN MANAGEMENT
+
+Plugin management is pretty straightforward for wordpress using the plugins menu provided in the wordpress graphical user interface. It is easy to search by categories or keywords, choose a specific plugin, read information and user reviiews, and also to add the plugin to your selection of plugins.
+
+> ### TWO : CONTACT FORM
+
+For the contact form I selected the 'wpforms' plugin. I selected this plugin specifically for two main reasons, it has the highest number of users and the best rating out of the most popular contact form plugins. Implementing the plugin is straightforward and simple, especially when utilising on the many templates provided.
+
+> ### THREE : PAYMENTS
+
+For the payments plugin I selected 'stripe for woocommerce'. The main reason for selecting this plugin was the consistently high user rating. There were a couple of plugins with a larger number of user installations, but most had a lower user rating. One of the most noteable features of this plugin is the automated integration with some of the most common forms of payment, including google and apple pay. 
+ 
+> ### FOUR : SOCIAL MEDIA
+
+For the social media plugin, I thought it better to focus on the websites SEO, so I installed the 'Yoast SEO' plugin to maximise my websites hits from search engine activity. I am not interested in most social media, as it is not an important avenue of outreach for most crypto users. The only exception to this is twitter, so a future addition of a twitter plugin is still under consideration. 
